@@ -1,0 +1,14 @@
+#Merging code using PR i.e. pull request.
+it let us tell other about changes we have pushed .
+
+merge git pe hone ke karan vscode pe koi changes not shown. for showing changes 
+"git pull origin <name of subfile>"
+
+#resolving merge conflict:
+Ex: 1) adding "This is a new feature (button)" in main file.
+Ex: 2) adding "This is a new feature (dropdown)" in feature1 file.
+
+on merging, there a conflict arise which one we want to save.
+vscode will give some suggetion, if we want to save both, we write both the lines. If want single then, remove other.
+And iske liye hm PR ka nhi merge code ka use krte h.
+    
