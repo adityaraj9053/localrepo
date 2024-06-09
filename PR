@@ -1,7 +1,7 @@
 #Merging code using PR i.e. pull request.
 it let us tell other about changes we have pushed .
 
-merge git pe hone ke karan vscode pe koi changes not shown. for sgowing changes 
+merge git pe hone ke karan vscode pe koi changes not shown. for showing changes 
 "git pull origin <name of subfile>"
 
 #resolving merge conflict:
