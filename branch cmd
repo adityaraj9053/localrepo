@@ -1,0 +1,16 @@
+git branch
+git branch -M main
+
+git checkout <-branch name->       navigate to other branch
+git checkout -b <-branch name->   create new branch
+git branch -d <-branch name->     delete branch
+(jis branch pe h woh delete nhi hoga)
+(jis branch me honge changes usi me hoga.)
+
+# Merging code/branch
+way1
+git diff <branch name> --> to compare commits, branch, files or more.
+git merge <branch name>-->  to merge 2 branches.
+
+way2
+create a PR

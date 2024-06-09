@@ -1,0 +1,9 @@
+kis item ko delete krkr file ko add kr diya (commit nhi) --> git reset <file name>
+for multiple file --> git reset   (staged changes)
+
+commit changes (for one commit) --> git reset HEAD~1
+FOR MULTIPLE file --> git reset <commit hash>
+ --> git reset --hard <commit hash>   #we get hash value from "git log"
+
+
+    # Fork -> dusre ka copy 
